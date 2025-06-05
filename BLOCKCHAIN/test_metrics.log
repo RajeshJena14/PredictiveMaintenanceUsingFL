@@ -1,0 +1,12 @@
+2025-06-03 02:03:08,087 - __main__ - INFO - Test metrics computation script started
+2025-06-03 02:03:08,088 - __main__ - INFO - Starting test data metrics computation at 2025-06-03 02:03:08
+2025-06-03 02:03:08,090 - __main__ - INFO - Loaded test data: X_test shape (2000, 6), y_test shape (2000,)
+2025-06-03 02:03:08,107 - __main__ - INFO - Computed global weights by averaging cluster models
+2025-06-03 02:03:08,107 - __main__ - INFO - Building VAE model for test data evaluation
+2025-06-03 02:03:08,762 - __main__ - INFO - VAE model initialized with global weights
+2025-06-03 02:03:09,850 - __main__ - INFO - Average reconstruction loss on test data: 1.0134
+2025-06-03 02:03:09,868 - __main__ - INFO - Test data metrics - Loss: 1.0134, Accuracy: 0.9670, F1-Score: 0.9534
+2025-06-03 02:03:09,871 - __main__ - INFO - True label distribution: {0: 1930, 1: 70}
+2025-06-03 02:03:09,872 - __main__ - INFO - Predicted label distribution: {0: 1994, 1: 6}
+2025-06-03 02:03:09,873 - __main__ - INFO - Final test metrics - Loss: 1.0134, Accuracy: 0.9670, F1-Score: 0.9534
+2025-06-03 02:03:09,874 - __main__ - INFO - Test metrics computation script terminated

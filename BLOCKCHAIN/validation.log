@@ -1,0 +1,13 @@
+2025-06-03 02:00:44,131 - __main__ - INFO - Validation script started
+2025-06-03 02:00:44,132 - __main__ - INFO - Starting test data validation at 2025-06-03 02:00:44
+2025-06-03 02:00:44,134 - __main__ - INFO - Test data files located successfully
+2025-06-03 02:00:44,157 - __main__ - INFO - Loaded X_test with shape (2000, 6) and y_test with shape (2000,)
+2025-06-03 02:00:44,157 - __main__ - INFO - X_test and y_test have consistent sample sizes
+2025-06-03 02:00:44,159 - __main__ - INFO - X_test is free of NaN or Inf values
+2025-06-03 02:00:44,160 - __main__ - INFO - y_test is free of NaN or Inf values
+2025-06-03 02:00:44,161 - __main__ - INFO - X_test has the expected number of features (6)
+2025-06-03 02:00:44,167 - __main__ - INFO - y_test labels are valid: [0 1]
+2025-06-03 02:00:44,176 - __main__ - INFO - Class distribution in y_test: {0: 1930, 1: 70}
+2025-06-03 02:00:44,176 - __main__ - INFO - X_test value range - min: -3.4457, max: 7.2133
+2025-06-03 02:00:44,176 - __main__ - INFO - Test data validation completed successfully
+2025-06-03 02:00:44,176 - __main__ - INFO - Validation script terminated

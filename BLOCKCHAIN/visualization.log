@@ -1,0 +1,18 @@
+2025-05-13 19:38:20,801 - __main__ - INFO - Starting visualization script
+2025-05-13 19:38:20,803 - __main__ - INFO - Saving plots to C:/Users/rkjra/Desktop/FL/IFCA/plots
+2025-05-13 19:38:20,804 - __main__ - INFO - Loading metrics...
+2025-05-13 19:38:20,834 - __main__ - INFO - Loaded server metrics
+2025-05-13 19:38:20,854 - __main__ - INFO - Loaded metrics for client L
+2025-05-13 19:38:20,875 - __main__ - INFO - Loaded metrics for client M
+2025-05-13 19:38:20,887 - __main__ - INFO - Loaded metrics for client H
+2025-05-13 19:38:20,887 - __main__ - INFO - Plotting server metrics
+2025-05-13 19:38:23,235 - __main__ - INFO - Saved server metrics plot
+2025-05-13 19:38:23,236 - __main__ - INFO - Plotting client metrics
+2025-05-13 19:38:24,124 - __main__ - INFO - Saved client metrics plot
+2025-05-13 19:38:24,124 - __main__ - INFO - Plotting cluster assignments
+2025-05-13 19:38:24,124 - __main__ - WARNING - Using mock cluster assignments. Replace with actual client_clusters_history for accurate visualization.
+2025-05-13 19:38:24,590 - __main__ - INFO - Saved cluster assignments plot
+2025-05-13 19:38:24,591 - __main__ - INFO - Plotting latent space
+2025-05-13 19:38:24,622 - __main__ - INFO - Building VAE model for visualization
+2025-05-13 19:38:26,482 - __main__ - INFO - Saved latent space plot
+2025-05-13 19:38:26,483 - __main__ - INFO - Visualization script completed
